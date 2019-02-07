@@ -1,0 +1,12 @@
+{
+  "name": "learn-travis",
+  "version": "0.0.1",
+  "description": "simple travis setup for me",
+  "author": "l",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  }
+}
